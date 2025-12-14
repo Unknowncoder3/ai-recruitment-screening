@@ -226,4 +226,3 @@ Final Year CSBS Student | AI & Full-Stack Developer
 ## ⭐ If you like this project
 
 Give it a **star ⭐** — it helps a lot!
-# ai-recruitment-screening
