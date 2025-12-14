@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/Unknowncoder3/ai-recruitment-screening)
+![License](https://img.shields.io/github/license/Unknowncoder3/ai-recruitment-screening)
+![Issues](https://img.shields.io/github/issues/Unknowncoder3/ai-recruitment-screening)
+
 # 🤖 AI-Based Candidate Screening System
 
 An **AI-powered, privacy-first recruitment screening tool** that helps recruiters evaluate candidates using **resume analysis, GitHub profile analysis, academic performance, and project experience**, with **local LLM-based hiring recommendations**.
