@@ -195,17 +195,8 @@ http://localhost:8501
 
 > Scores are explainable and conservative (ATS-style)
 
----
 
-## 🧠 Why This Project Is Real-World Relevant
 
-* Handles **messy PDF resumes**
-* Works **without paid APIs**
-* Uses **local LLMs for privacy**
-* Implements **rate-limit handling & caching**
-* Designed with **recruiter UX** in mind
-
----
 
 ## 🚀 Future Enhancements
 
